@@ -92,9 +92,6 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 webpmux -version
 ```
 
-# Features
-- Cek [disini](https://github.com/kamikaze2325/ScBot/blob/main/message/help.js)
-
 # THANKS
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xinz`](https://github.com/Xinz-Team)
