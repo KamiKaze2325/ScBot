@@ -1215,7 +1215,7 @@ case 'tagall':
           case 'sourcecode': 
           case 'sc': 
           case 'src':
-              textImg(`Bot ini menggunakan sc : https://github.com/Xinz-Team/XinzBot`)
+              textImg(`Bot ini menggunakan sc : https://github.com/kamikaze2325/ScBot`)
               break
           case 'jadibot':
               jadibot(reply,agam,from)
