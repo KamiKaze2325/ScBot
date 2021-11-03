@@ -1212,6 +1212,7 @@ case 'tagall':
               teks = `Jangan Lupa Follow Ig Owner Ya : https://www.instagram.com/lordagam23_/`
               agam.sendMessage(from, teks, text, { quoted : mek })
               break
+              //Jangan Di Ubah Source code nya
           case 'sourcecode': 
           case 'sc': 
           case 'src':
